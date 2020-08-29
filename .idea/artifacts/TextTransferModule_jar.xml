@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextTransferModule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextTransferModule_jar</output-path>
+    <root id="archive" name="TextTransferModule.jar">
+      <element id="module-output" name="TextTransferModule" />
+    </root>
+  </artifact>
+</component>
